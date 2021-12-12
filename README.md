@@ -9,4 +9,6 @@ Website
 https://lernantino.github.io/run-buddy/
 
 Contribution
-Made with ❤️ by Patrick Meehan
+Made with ❤️ by Patrick Meehan 
+
+# Run Buddy Inc.
